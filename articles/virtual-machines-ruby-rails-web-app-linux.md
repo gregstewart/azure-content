@@ -127,7 +127,7 @@ Follow the instructions given [here][vm-instructions] to create a Windows Azure 
 
 <div class="dev-callout">
 <strong>Note</strong>
-<p>the steps in this tutorial were performed on a Windows Azure Virtual Machine hosing Ubuntu 12.10. If you are using a different Linux distribution, different steps may be required to accomplish the same tasks.</p>
+<p>the steps in this tutorial were performed on a Windows Azure Virtual Machine hosting Ubuntu 12.10. If you are using a different Linux distribution, different steps may be required to accomplish the same tasks.</p>
 </div>
 
 <div class="dev-callout">
