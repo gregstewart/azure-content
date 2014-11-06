@@ -49,6 +49,7 @@ Thank you for your interest in Windows Azure documentation. Before we can accept
 ###Who needs a CLA?
 * Members of the Microsoft Open Technologies group.
 * Contributors who don't work for Microsoft.
+
 =======
 ### Setting up your fork of the repository
 >>>>>>> AUX3154
